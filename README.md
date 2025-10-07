@@ -43,7 +43,7 @@ This repository contains the foundational models and logic for the core intellig
 At the heart of our system is an AI that redefines the paradigm of data analysis. It is engineered to respectfully understand the artistic **"Personality"** of an image (its mood, composition, emotional tone) while rigorously protecting the **"Person"** (personally identifiable information).
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gemini-prod/images/43d83b0f-78d1-4d37-88d4-54c251e605d3" alt="The De-Anonymizer Shield: Separating Person from Personality" width="600">
+  <img src="https://raw.githubusercontent.com/cmorgh/fioreframe-ethical-core/main/de-anonymizer-shield.jpg" alt="The De-Anonymizer Shield: Separating Person from Personality" width="600">
 </p>
 
 This allows us to facilitate a perfect, soul-to-soul match between a memory and an artisan without ever compromising user privacy.
@@ -81,7 +81,7 @@ This is more than a codebase; it's an invitation.
 * **Report Issues & Suggest Improvements:** Help us refine and strengthen our ethical core.
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gemini-prod/images/6df20146-5e26-4076-a94f-a99da979f429" alt="The Alchemical Frame: The Ultimate Hybrid Product" width="600">
+  <img src="https://raw.githubusercontent.com/cmorgh/fioreframe-ethical-core/main/alchemical-frame.jpg" alt="The Alchemical Frame: The Ultimate Hybrid Product" width="600">
 </p>
 
 ### **The Bigger Picture**
